@@ -1,0 +1,6 @@
+C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\bin\MyFirstTS.dll.config
+C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\bin\MyFirstTS.dll
+C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\bin\MyFirstTS.pdb
+C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\obj\Debug\MyFirstTS.csprojResolveAssemblyReference.cache
+C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\obj\Debug\MyFirstTS.dll
+C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\obj\Debug\MyFirstTS.pdb
