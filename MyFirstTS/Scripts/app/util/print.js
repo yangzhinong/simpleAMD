@@ -1,0 +1,1 @@
+define(["require","exports","../lib/log"],function(e,o,l){"use strict";function s(){console.log("print"),l.logMessage("log in logMessage")}o.__esModule=!0,o["default"]=s});

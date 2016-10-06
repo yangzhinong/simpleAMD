@@ -1,0 +1,1 @@
+var Loggers;!function(g){function o(){console.log("print")}g.printMessage=o}(Loggers||(Loggers={}));var Loggers;!function(g){function o(){console.log("log")}g.logMessage=o}(Loggers||(Loggers={})),Loggers.logMessage(),Loggers.printMessage();

@@ -20,13 +20,21 @@
   <ItemGroup>
     <Content Include="app.css" />
     <Content Include="index.html" />
+    <Content Include="Scripts\build.js" />
+    <Content Include="Scripts\example.build.js" />
     <Content Include="Scripts\r.js" />
     <Content Include="Scripts\require.js" />
-    <Content Include="Scripts\ts\app.js" />
+    <Content Include="Scripts\ts\log.js" />
+    <Content Include="Scripts\ts\OneTwoThree.js" />
+    <Content Include="Scripts\ts\out.js" />
+    <Content Include="Scripts\ts\print.js" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="Scripts\ts\log.js.map" />
+    <Content Include="Scripts\ts\OneTwoThree.js.map" />
+    <Content Include="Scripts\ts\print.js.map" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
@@ -35,13 +43,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Scripts\app\" />
+    <TypeScriptCompile Include="Scripts\ts\app.ts" />
+    <TypeScriptCompile Include="Scripts\ts\lib\log.ts" />
+    <TypeScriptCompile Include="Scripts\ts\OneTwoThree.ts" />
+    <TypeScriptCompile Include="Scripts\ts\util\print.ts" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="Scripts\ts\app.ts" />
-    <TypeScriptCompile Include="Scripts\ts\log.ts" />
-    <TypeScriptCompile Include="Scripts\ts\OneTwoThree.ts" />
-    <TypeScriptCompile Include="Scripts\ts\print.ts" />
+    <Folder Include="Scripts\app\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>

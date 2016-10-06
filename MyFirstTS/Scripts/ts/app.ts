@@ -1,9 +1,9 @@
-﻿import log = require('./log');
-import print = require('./print');
+﻿import * as log  from 'lib/log';
+import print from 'util/print';
 
 
-log.logMessage();
-print.printMessage();
+log.logMessage('my name is yzn');
+print();
 
 
 import num from "./OneTwoThree"

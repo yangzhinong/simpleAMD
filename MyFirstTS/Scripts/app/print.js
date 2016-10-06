@@ -1,0 +1,1 @@
+define(["require","exports"],function(e,n){"use strict";function i(){console.log("print")}n.printMessage=i});

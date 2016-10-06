@@ -4,3 +4,8 @@ C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\bin\MyF
 C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\obj\Debug\MyFirstTS.csprojResolveAssemblyReference.cache
 C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\obj\Debug\MyFirstTS.dll
 C:\Users\hasee\Documents\Visual Studio 2013\Projects\MyFirstTS\MyFirstTS\obj\Debug\MyFirstTS.pdb
+F:\simpleAMD-master\simpleAMD-master\MyFirstTS\bin\MyFirstTS.dll.config
+F:\simpleAMD-master\simpleAMD-master\MyFirstTS\bin\MyFirstTS.dll
+F:\simpleAMD-master\simpleAMD-master\MyFirstTS\bin\MyFirstTS.pdb
+F:\simpleAMD-master\simpleAMD-master\MyFirstTS\obj\Debug\MyFirstTS.dll
+F:\simpleAMD-master\simpleAMD-master\MyFirstTS\obj\Debug\MyFirstTS.pdb
